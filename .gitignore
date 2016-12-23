@@ -1,0 +1,7 @@
+data/raw/*
+data/train/*
+data/intermediate/*
+data/validate/*
+models/*
+
+*.pyc
